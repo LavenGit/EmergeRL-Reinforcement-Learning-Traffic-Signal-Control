@@ -1,0 +1,36 @@
+Date: October 30, 2025
+
+Name: Nikhil Bansal
+
+What has been done during the past two weeks?: Improved the pygame mechanics by making sure cars spawn in both left and right lanes in every direction, making sure cars move in the right direction, turn left, stop at the stop line, and are removed from the screen when they exit.
+
+What are you planning to do in the next two weeks?: Fix bugs and make UI improvements.
+
+Name: Sham Ruthirapragas
+
+What has been done during the past two weeks?: Improved the Pygame UI by adding defined driving lanes, medians, and other details, creating a more polished interface, and presented MDP specifications during the environment demo.
+
+What are you planning to do in the next two weeks?: Investigate displaying terminal output within Pygame to improve display of simulation events and assist in algorithms design.
+
+
+Name: Rohan Doulakar
+
+What has been done during the past two weeks?: Improved the Pygame UI by adding images for the car and the emergency vehicle and added functionality so that the vehicles move within the appropriate lanes. 
+
+What are you planning to do in the next two weeks?: Investigate on collecting performance metrics such as average wait time and emergency response efficiency so that the agent can perform better in the environment. 
+
+Name: Laven Joshi
+
+What has been done during the past two weeks?: Implemented the RL algorithm (SARSA) to interact with the environment for the demo.
+
+What are you planning to do in the next two weeks?: Experiment with other RL algorithms or modify the existing algorithm, to interact with environment in order for it to perform optimally.
+
+
+Name: Bibek Singh Kahlon
+
+What has been done during the past two weeks?: Made terminal output more readable with traffic light colours listed and explained how the step functions works during the environment demo
+
+What are you planning to do in the next two weeks?: Fix bugs seen on UI and test out other RL algorithms
+
+
+

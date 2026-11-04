@@ -1,0 +1,33 @@
+Date: October 15, 2025
+
+Name: Nikhil Bansal
+
+What has been done during the past two weeks?: Started coding the gym environment
+
+What are you planning to do in the next two weeks?: Work more on the gym environment
+
+Name: Sham Ruthirapragas
+
+What has been done during the past two weeks?: Contributed to defining MDP framework and Why should we care about this problem? project report section
+
+What are you planning to do in the next two weeks?: Investigate RL algorithms for problem
+
+Name: Rohan Doulakar
+
+What has been done during the past two weeks?: I contributed to define the MDP framework and worked on the, What are the MDP specifications on the project report section
+
+What are you planning to do in the next two weeks?: I am planning to work more on the gym environment
+
+Name: Laven Joshi
+
+What has been done during the past two weeks?: Studied existing RL traffic control systems to learn how they optimize traffic flow.
+
+What are you planning to do in the next two weeks?: Contributing to the implementation of RL algorithms for the traffic environment.
+
+Name: Bibek Singh Kahlon
+
+What has been done during the past two weeks?: Contributed to defining MDP framework and What problem does the project focus on? project report section
+
+What are you planning to do in the next two weeks?: Work on implementation of the RL algorithms
+
+

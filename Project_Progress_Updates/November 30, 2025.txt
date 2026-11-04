@@ -1,0 +1,35 @@
+Date: November 30, 2025
+
+Name: Nikhil Bansal
+
+What has been done during the past two weeks?: Created the Project Report in LaTeX using NeurIPS style. Provided a brief review of prior work on this problem.
+
+What are you planning to do in the next two weeks?: Described in more detail about the approach(es) used in this project.
+
+Name: Sham Ruthirapragas
+
+What has been done during the past two weeks?: Implemented a change to normalize rewards, which has improved the stability of agent training.
+
+What are you planning to do in the next two weeks?: Contribute to writing and finalizing the conclusion section of the report.
+
+Name: Rohan Doulakar
+
+What has been done during the past two weeks?: Cleaned up the code, performed some tests and added a README file.
+
+What are you planning to do in the next two weeks?: Continue to work on the project report.
+
+Name: Laven Joshi
+
+What has been done during the past two weeks?: Compare the performances of the 2 RL algorithms and try to make them function more optimally.
+
+What are you planning to do in the next two weeks?: Work on the Project Report (Empirical Studies section)and contribute to completing it soon.
+
+Name: Bibek Singh Kahlon
+
+What has been done during the past two weeks?: Modified code which makes the cars continue after crossing their stop line and also made changes to remove cars once they reached the end of their path.
+
+What are you planning to do in the next two weeks?: Complete conclusion section for the report.
+
+
+
+
