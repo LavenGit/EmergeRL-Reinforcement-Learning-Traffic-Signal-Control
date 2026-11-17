@@ -2,8 +2,6 @@
 
 A Python-based traffic intersection simulation that explores how reinforcement learning can be used to control traffic signals, manage vehicle queues, and prioritize emergency vehicles.
 
-Built as a group project for **COMP 4010: Introduction to Reinforcement Learning** at Carleton University.
-
 ## 📌 Project Overview
 
 EmergeRL simulates a four-way traffic intersection with traffic signals, turning lanes, incoming vehicles, and emergency vehicles.
